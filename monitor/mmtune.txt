@@ -1,4 +1,1 @@
-20:46:09.157 -85 (104): PumpStatusAck: 0 #0
-916.600, 1, 1, rssi:-83.8
-916.620, 0, 0, rssi:-88.6
-916.640, 0, 0, rssi:-93.4
+Pump not responding
