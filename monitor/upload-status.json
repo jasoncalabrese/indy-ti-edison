@@ -1,0 +1,56 @@
+{
+  "device": "openaps://indy-e1", 
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.56
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-01-31T03:53:02.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 94.575, 
+    "clock": "2016-01-30T19:52:02-08:00"
+  }, 
+  "openaps": {
+    "suggested": {
+      "bg": 58, 
+      "temp": "absolute", 
+      "snoozeBG": 60, 
+      "timestamp": "2016-01-31T03:55:39.000Z", 
+      "rate": 0, 
+      "reason": "BG 58<80", 
+      "eventualBG": 40, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 75 Boluses: 2.2 Target: 115 Deviation: 6 BGI: -5.48", 
+      "tick": -1
+    }, 
+    "iob": {
+      "timestamp": "2016-01-31T03:55:39.000Z", 
+      "bolussnooze": 0.166, 
+      "basaliob": -0.505, 
+      "iob": 0.302, 
+      "activity": 0.0137
+    }, 
+    "enacted": {
+      "requested": {
+        "duration": 30, 
+        "rate": 0, 
+        "temp": "absolute"
+      }, 
+      "bg": 58, 
+      "temp": "absolute", 
+      "snoozeBG": 60, 
+      "timestamp": "2016-01-31T03:56:01.000Z", 
+      "reason": "BG 58<80", 
+      "rate": 0, 
+      "eventualBG": 40, 
+      "recieved": true, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 75 Boluses: 2.2 Target: 115 Deviation: 6 BGI: -5.48", 
+      "tick": -1
+    }
+  }
+}
