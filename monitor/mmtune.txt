@@ -1,3 +1,1 @@
-20:25:09.398 -74 ( 41): invalid: encoding errors
-916.580, 2, 4, rssi:-84.0
-916.600, 0, 1, rssi:-75.0
+Pump not responding
