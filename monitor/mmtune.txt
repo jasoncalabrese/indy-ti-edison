@@ -1,1 +1,2 @@
-Pump not responding
+21:46:07.663 -90 ( 75): GetModel: "723"
+916.620, 0, 2, rssi:-91.0
