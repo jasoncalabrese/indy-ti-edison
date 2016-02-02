@@ -1,2 +1,2 @@
-19:01:13.273 -90 (233): invalid: encoding errors
-916.500, 0, 0, rssi:-69.0
+Pump not responding
+916.600, 2, 3, rssi:-85.5
