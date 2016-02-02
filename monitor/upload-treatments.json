@@ -1,0 +1,104 @@
+[
+  {
+    "_type": "BasalProfileStart",
+    "_description": "BasalProfileStart 2016-02-01T19:13:29 head[2], body[3] op[0x7b]",
+    "timestamp": "2016-02-01T19:13:29-08:00",
+    "_body": "251400",
+    "profile_index": 7,
+    "_head": "7b07",
+    "rate": 0.5,
+    "offset": 66600000,
+    "_date": "1d8d130110",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/BasalProfileStart",
+    "created_at": "2016-02-01T19:13:29-08:00",
+    "enteredBy": "openaps://medtronic/723",
+    "eventType": "Note",
+    "notes": "BasalProfileStart 723 "
+  },
+  {
+    "duration": "0",
+    "bolus": {
+      "programmed": 0.05,
+      "_type": "Bolus",
+      "_description": "Bolus 2016-02-01T19:11:10 head[8], body[0] op[0x01]",
+      "timestamp": "2016-02-01T19:11:10-08:00",
+      "_body": "",
+      "_head": "0100020002002000",
+      "amount": 0.05,
+      "unabsorbed": 0.8,
+      "duration": 0,
+      "type": "normal",
+      "_date": "0a8b330110"
+    },
+    "timestamp": "2016-02-01T19:11:10-08:00",
+    "created_at": "2016-02-01T19:11:10-08:00",
+    "carbs": "10",
+    "ratio": "16",
+    "wizard": {
+      "_type": "BolusWizard",
+      "bg": 0,
+      "_description": "BolusWizard 2016-02-01T19:11:10 head[2], body[15] op[0x5b]",
+      "timestamp": "2016-02-01T19:11:10-08:00",
+      "_body": "0a5000a0506e000018000000001878",
+      "appended": [
+        {
+          "_type": "UnabsorbedInsulinBolus",
+          "_description": "UnabsorbedInsulinBolus unknown head[26], body[0] op[0x5c]",
+          "_body": "",
+          "_head": "5c1a2835c00cc1c010d5c002f3c006fdc02c57d042b1d006bbd0",
+          "data": [
+            {
+              "amount": 1,
+              "age": 53
+            },
+            {
+              "amount": 0.3,
+              "age": 193
+            },
+            {
+              "amount": 0.4,
+              "age": 213
+            },
+            {
+              "amount": 0.05,
+              "age": 243
+            },
+            {
+              "amount": 0.15,
+              "age": 253
+            },
+            {
+              "amount": 1.1,
+              "age": 343
+            },
+            {
+              "amount": 1.65,
+              "age": 433
+            },
+            {
+              "amount": 0.15,
+              "age": 443
+            }
+          ],
+          "_date": ""
+        }
+      ],
+      "bg_target_high": 120,
+      "sensitivity": 80,
+      "carb_input": 10,
+      "carb_ratio": 16,
+      "food_estimate": 0.6,
+      "unabsorbed_insulin_total": 0,
+      "correction_estimate": 0,
+      "bg_target_low": 110,
+      "_head": "5b00",
+      "bolus_estimate": 0.6,
+      "_date": "0a8b130110"
+    },
+    "eventType": "<none>",
+    "insulin": "0.05",
+    "notes": "Normal bolus with wizard.\nProgrammed bolus 0.05\nDelivered bolus 0.05\nPercent delivered:  100%\nFood estimate 0.6\nCorrection estimate 0\nBolus estimate 0.6\nTarget low 110\nTarget high 120\nHypothetical glucose delta -4",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/<none>",
+    "enteredBy": "openaps://medtronic/723"
+  }
+]
