@@ -1,0 +1,18 @@
+{
+  "requested": {
+    "duration": 30, 
+    "rate": 2, 
+    "temp": "absolute"
+  }, 
+  "bg": 197, 
+  "temp": "absolute", 
+  "snoozeBG": 234, 
+  "timestamp": "2016-02-01T18:25:59.608299", 
+  "rate": 2.0, 
+  "reason": "max_iob 2, adj. req. rate:3.6 to maxSafeBasal:2.0, no temp, setting 2U/hr", 
+  "eventualBG": 235, 
+  "recieved": false, 
+  "duration": 30, 
+  "mealAssist": "On: Carbs: 16 Boluses: 1.7 Target: 100 Deviation: 38 BGI: -2.2", 
+  "tick": "+30"
+}
