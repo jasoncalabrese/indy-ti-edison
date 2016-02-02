@@ -1,18 +1,18 @@
 {
   "requested": {
-    "duration": 30, 
-    "rate": 1.45, 
+    "duration": 30,
+    "rate": 1.45,
     "temp": "absolute"
-  }, 
-  "bg": 114, 
-  "temp": "absolute", 
-  "snoozeBG": 130, 
-  "timestamp": "2016-02-01T19:37:03.501977", 
-  "rate": 1.425, 
-  "reason": "Eventual BG 158>=120, temp 0<1.45U/hr", 
-  "eventualBG": 158, 
-  "recieved": false, 
-  "duration": 30, 
-  "mealAssist": "On: Carbs: 64 Boluses: 1 Target: 100 Deviation: 33 BGI: -5.08", 
+  },
+  "bg": 114,
+  "temp": "absolute",
+  "snoozeBG": 130,
+  "timestamp": "2016-02-01T19:37:03.501977",
+  "rate": 1.425,
+  "reason": "Eventual BG 158>=120, temp 0<1.45U/hr",
+  "eventualBG": 158,
+  "recieved": true,
+  "duration": 30,
+  "mealAssist": "On: Carbs: 64 Boluses: 1 Target: 100 Deviation: 33 BGI: -5.08",
   "tick": "+11"
 }
