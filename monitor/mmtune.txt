@@ -1,16 +1,16 @@
 Opening /dev/serial/by-id/usb-Nightscout_subg_rfspy_000002-if00
 RileyLink OK
 Version: subg_rfspy 0.4
-20:22:10.638 -59 (183): GetModel: "723"
+20:25:43.444 -71 (  5): PumpStatusAck: 0 #0
 916.500, 5, 5, rssi:-99.0
 916.520, 5, 5, rssi:-99.0
 916.540, 5, 5, rssi:-99.0
 916.560, 5, 5, rssi:-99.0
-916.580, 0, 1, rssi:-68.0
-916.600, 0, 0, rssi:-58.0
-916.620, 0, 0, rssi:-58.0
-916.640, 0, 0, rssi:-60.4
-916.660, 0, 5, rssi:-99.0
+916.580, 0, 5, rssi:-99.0
+916.600, 0, 0, rssi:-65.0
+916.620, 0, 0, rssi:-62.4
+916.640, 0, 0, rssi:-62.4
+916.660, 0, 4, rssi:-68.0
 916.680, 5, 5, rssi:-99.0
 916.700, 5, 5, rssi:-99.0
 916.720, 5, 5, rssi:-99.0
@@ -23,4 +23,4 @@ Version: subg_rfspy 0.4
 916.860, 5, 5, rssi:-99.0
 916.880, 5, 5, rssi:-99.0
 916.900, 5, 5, rssi:-99.0
-Setting to best freq of 916.600
+Setting to best freq of 916.620
