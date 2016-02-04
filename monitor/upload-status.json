@@ -11,28 +11,28 @@
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 113.425, 
+    "reservoir": 113.4, 
     "clock": "2016-02-03T20:17:05-08:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 137, 
+      "bg": 134, 
       "temp": "absolute", 
-      "snoozeBG": 63, 
-      "timestamp": "2016-02-04T04:15:45.000Z", 
+      "snoozeBG": 55, 
+      "timestamp": "2016-02-04T04:20:24.000Z", 
       "rate": 0, 
-      "reason": "Eventual BG 32<110, Snooze BG 63, setting -0.56U/hr", 
-      "eventualBG": 32, 
+      "reason": "Eventual BG 37<110, Snooze BG 55, setting -0.12U/hr", 
+      "eventualBG": 37, 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 42 Boluses: 3.55 Target: 115 Deviation: 35 BGI: -12.6", 
-      "tick": -5
+      "mealAssist": "Off: Carbs: 42 Boluses: 3.35 Target: 115 Deviation: 30 BGI: -13.16", 
+      "tick": -3
     }, 
     "iob": {
-      "timestamp": "2016-02-04T04:15:44.000Z", 
-      "bolussnooze": 0.256, 
-      "basaliob": -0.033, 
-      "iob": 1.753, 
-      "activity": 0.0315
+      "timestamp": "2016-02-04T04:20:23.000Z", 
+      "bolussnooze": 0.149, 
+      "basaliob": -0.039, 
+      "iob": 1.589, 
+      "activity": 0.0329
     }, 
     "enacted": {
       "requested": {
@@ -40,17 +40,17 @@
         "rate": 0, 
         "temp": "absolute"
       }, 
-      "bg": 137, 
+      "bg": 134, 
       "temp": "absolute", 
-      "snoozeBG": 63, 
-      "timestamp": "2016-02-04T04:16:07.000Z", 
-      "reason": "Eventual BG 32<110, Snooze BG 63, setting -0.56U/hr", 
+      "snoozeBG": 55, 
+      "timestamp": "2016-02-04T04:20:45.000Z", 
+      "reason": "Eventual BG 37<110, Snooze BG 55, setting -0.12U/hr", 
       "rate": 0, 
-      "eventualBG": 32, 
+      "eventualBG": 37, 
       "recieved": true, 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 42 Boluses: 3.55 Target: 115 Deviation: 35 BGI: -12.6", 
-      "tick": -5
+      "mealAssist": "Off: Carbs: 42 Boluses: 3.35 Target: 115 Deviation: 30 BGI: -13.16", 
+      "tick": -3
     }
   }
 }
