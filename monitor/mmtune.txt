@@ -1,7 +1,7 @@
 Opening /dev/serial/by-id/usb-Nightscout_subg_rfspy_000002-if00
 RileyLink OK
 Version: subg_rfspy 0.4
-Pump not responding
+17:33:48.775 -94 (  1): invalid: a7349198d003330000000000000000000000000000000000000000000000000000000000000000000000c2 expected_crc=4c
 916.500, 5, 5, rssi:-99.0
 916.520, 5, 5, rssi:-99.0
 916.540, 5, 5, rssi:-99.0
