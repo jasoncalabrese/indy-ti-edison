@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "_type": "BGReceived",
+    "_description": "BGReceived 2016-02-06T06:50:07 head[2], body[3] op[0x3f]",
+    "timestamp": "2016-02-06T06:50:07-08:00",
+    "_body": "c23647",
+    "_head": "3f10",
+    "amount": 133,
+    "link": "c23647",
+    "_date": "07b2a66610",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/BGReceived",
+    "created_at": "2016-02-06T06:50:07-08:00",
+    "enteredBy": "openaps://medtronic/723",
+    "eventType": "Note",
+    "notes": "BGReceived 723 "
+  },
+  {
+    "_type": "CalBGForPH",
+    "_description": "CalBGForPH 2016-02-06T06:50:07 head[2], body[0] op[0x0a]",
+    "timestamp": "2016-02-06T06:50:07-08:00",
+    "_body": "",
+    "_head": "0a85",
+    "amount": 133,
+    "_date": "07b2266610",
+    "eventType": "<none>",
+    "glucose": 133,
+    "glucoseType": "Finger",
+    "notes": "Pump received finger stick.",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/CalBGForPH",
+    "created_at": "2016-02-06T06:50:07-08:00",
+    "enteredBy": "openaps://medtronic/723"
+  }
+]
