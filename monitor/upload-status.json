@@ -3,36 +3,54 @@
   "pump": {
     "battery": {
       "status": "normal", 
-      "voltage": 1.52
+      "voltage": 1.56
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-06T16:43:41.000Z", 
+      "timestamp": "2016-02-06T17:00:53.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 51.35, 
-    "clock": "2016-02-06T08:43:11-08:00"
+    "reservoir": 51.2, 
+    "clock": "2016-02-06T09:00:23-08:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 153, 
+      "bg": 150, 
       "temp": "absolute", 
-      "snoozeBG": 118, 
-      "timestamp": "2016-02-06T16:44:38.000Z", 
-      "rate": 0, 
-      "reason": "118 is in range. No temp required; cancel", 
-      "eventualBG": 118, 
-      "duration": 0, 
-      "mealAssist": "Off: Carbs: 12 Boluses: 1.25 Target: 115 Deviation: 10 BGI: -4.12", 
-      "tick": -1
+      "snoozeBG": 127, 
+      "timestamp": "2016-02-06T17:01:58.000Z", 
+      "rate": 0.65, 
+      "reason": "Eventual BG 127>=120, no temp, setting 0.67U/hr", 
+      "eventualBG": 127, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 12 Boluses: 1.25 Target: 115 Deviation: 6 BGI: -3.16", 
+      "tick": -2
     }, 
     "iob": {
-      "timestamp": "2016-02-06T16:44:38.000Z", 
+      "timestamp": "2016-02-06T17:01:57.000Z", 
       "bolussnooze": 0, 
-      "basaliob": 0.26, 
-      "iob": 0.562, 
-      "activity": 0.0103
+      "basaliob": 0.178, 
+      "iob": 0.362, 
+      "activity": 0.0079
+    }, 
+    "enacted": {
+      "requested": {
+        "duration": 30, 
+        "rate": 0.65, 
+        "temp": "absolute"
+      }, 
+      "bg": 150, 
+      "temp": "absolute", 
+      "snoozeBG": 127, 
+      "timestamp": "2016-02-06T17:02:10.000Z", 
+      "reason": "Eventual BG 127>=120, no temp, setting 0.67U/hr", 
+      "rate": 0.65, 
+      "eventualBG": 127, 
+      "recieved": true, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 12 Boluses: 1.25 Target: 115 Deviation: 6 BGI: -3.16", 
+      "tick": -2
     }
   }
 }
