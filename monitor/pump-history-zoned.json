@@ -1,6 +1,63 @@
 [
   {
     "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-02-05T17:49:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-05T17:49:33-08:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "21b1114510"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-05T17:49:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-05T17:49:33-08:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "21b1114510"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-02-05T17:49:31 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-05T17:49:31-08:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "1fb1114510"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-05T17:49:31 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-05T17:49:31-08:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "1fb1114510"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-02-05T17:49:29 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-05T17:49:29-08:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "1db1114510"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-05T17:49:29 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-05T17:49:29-08:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "1db1114510"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2016-02-05T17:46:32 head[2], body[0] op[0x16]", 
     "timestamp": "2016-02-05T17:46:32-08:00", 
     "_body": "", 
@@ -1504,24 +1561,5 @@
     "_head": "5bca", 
     "bolus_estimate": 2.9, 
     "_date": "0fb20b0510"
-  }, 
-  {
-    "_type": "BGReceived", 
-    "_description": "BGReceived 2016-02-05T11:48:37 head[2], body[3] op[0x3f]", 
-    "timestamp": "2016-02-05T11:48:37-08:00", 
-    "_body": "c23647", 
-    "_head": "3f19", 
-    "amount": 202, 
-    "link": "c23647", 
-    "_date": "25b04b6510"
-  }, 
-  {
-    "_type": "CalBGForPH", 
-    "_description": "CalBGForPH 2016-02-05T11:48:37 head[2], body[0] op[0x0a]", 
-    "timestamp": "2016-02-05T11:48:37-08:00", 
-    "_body": "", 
-    "_head": "0aca", 
-    "amount": 202, 
-    "_date": "25b02b6510"
   }
 ]
