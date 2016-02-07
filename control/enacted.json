@@ -1,0 +1,18 @@
+{
+  "requested": {
+    "duration": 0, 
+    "rate": 0, 
+    "temp": "absolute"
+  }, 
+  "bg": 124, 
+  "temp": "absolute", 
+  "snoozeBG": 63, 
+  "timestamp": "2016-02-06T21:49:57.146963", 
+  "rate": 0.0, 
+  "reason": "Eventual BG 38<110, but Delta +8 > Exp. Delta -10.1; cancel", 
+  "eventualBG": 38, 
+  "recieved": false, 
+  "duration": 0, 
+  "mealAssist": "Off: Carbs: 63 Boluses: 4.05 Target: 115 Deviation: 40 BGI: -12.28", 
+  "tick": "+8"
+}
