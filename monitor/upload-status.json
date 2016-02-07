@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-07T02:43:42.000Z", 
+      "timestamp": "2016-02-07T02:46:33.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -33,6 +33,24 @@
       "basaliob": 0.162, 
       "iob": 0.257, 
       "activity": 0.005
+    }, 
+    "enacted": {
+      "requested": {
+        "duration": 30, 
+        "rate": 0, 
+        "temp": "absolute"
+      }, 
+      "bg": 127, 
+      "temp": "absolute", 
+      "snoozeBG": 94, 
+      "timestamp": "2016-02-07T02:45:16.000Z", 
+      "reason": "Eventual BG 94<110, setting -0.55U/hr", 
+      "rate": 0, 
+      "eventualBG": 94, 
+      "recieved": true, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 18 Boluses: 0.4 Target: 115 Deviation: -12 BGI: -2", 
+      "tick": -4
     }
   }
 }
