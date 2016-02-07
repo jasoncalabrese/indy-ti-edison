@@ -1,5 +1,18 @@
 [
   {
+    "programmed": 0.6, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-02-06T20:35:32 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-02-06T20:35:32-08:00", 
+    "_body": "", 
+    "_head": "0100180018005600", 
+    "amount": 0.6, 
+    "unabsorbed": 2.15, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "20a3346610"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2016-02-06T20:24:35 head[2], body[0] op[0x16]", 
     "timestamp": "2016-02-06T20:24:35-08:00", 
@@ -2040,18 +2053,5 @@
     "rate": 0.5, 
     "offset": 52200000, 
     "_date": "06b10e0610"
-  }, 
-  {
-    "programmed": 0.6, 
-    "_type": "Bolus", 
-    "_description": "Bolus 2016-02-06T14:25:09 head[8], body[0] op[0x01]", 
-    "timestamp": "2016-02-06T14:25:09-08:00", 
-    "_body": "", 
-    "_head": "0100180018003000", 
-    "amount": 0.6, 
-    "unabsorbed": 1.2, 
-    "duration": 0, 
-    "type": "normal", 
-    "_date": "09992e6610"
   }
 ]
