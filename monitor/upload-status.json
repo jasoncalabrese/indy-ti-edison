@@ -7,12 +7,12 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-08T16:50:41.000Z", 
+      "timestamp": "2016-02-08T16:55:32.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 77.125, 
-    "clock": "2016-02-08T08:50:12-08:00"
+    "reservoir": 77.075, 
+    "clock": "2016-02-08T08:55:03-08:00"
   }, 
   "openaps": {
     "suggested": {
