@@ -7,8 +7,8 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-08T14:40:33.000Z", 
-      "bolusing": false, 
+      "timestamp": "2016-02-08T14:45:34.000Z", 
+      "bolusing": true, 
       "suspended": false
     }, 
     "reservoir": 80.95, 
