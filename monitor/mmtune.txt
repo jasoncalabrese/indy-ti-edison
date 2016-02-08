@@ -1,7 +1,7 @@
 Opening /dev/ttyMFD1
 RileyLink OK
 Version: subg_rfspy 0.6
-22:17:10.365 -85 ( 91): GetModel: "723"
+22:17:43.905 -84 (135): GetModel: "723"
 916.500, 5, 5, rssi:-99.0
 916.520, 5, 5, rssi:-99.0
 916.540, 5, 5, rssi:-99.0
