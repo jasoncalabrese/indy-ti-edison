@@ -3,6 +3,7 @@ secret.ini
 ns-upload.ini
 ns-bgnow.ini
 latest-treatments.ini
+mmtune.ini
 *.iml
 .idea
 node_modules/
