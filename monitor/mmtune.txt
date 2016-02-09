@@ -1,16 +1,16 @@
 Opening /dev/ttyMFD1
 RileyLink OK
 Version: subg_rfspy 0.6
-Pump not responding
+08:05:11.215 -77 (195): GetModel: "723"
 916.500, 5, 5, rssi:-99.0
 916.520, 5, 5, rssi:-99.0
 916.540, 5, 5, rssi:-99.0
 916.560, 5, 5, rssi:-99.0
-916.580, 2, 5, rssi:-99.0
-916.600, 0, 0, rssi:-77.0
-916.620, 0, 0, rssi:-77.8
-916.640, 0, 0, rssi:-75.0
-916.660, 0, 0, rssi:-76.8
+916.580, 4, 5, rssi:-99.0
+916.600, 0, 0, rssi:-76.4
+916.620, 0, 0, rssi:-83.0
+916.640, 0, 0, rssi:-83.6
+916.660, 0, 0, rssi:-81.0
 916.680, 5, 5, rssi:-99.0
 916.700, 5, 5, rssi:-99.0
 916.720, 5, 5, rssi:-99.0
@@ -23,4 +23,4 @@ Pump not responding
 916.860, 5, 5, rssi:-99.0
 916.880, 5, 5, rssi:-99.0
 916.900, 5, 5, rssi:-99.0
-Setting to best freq of 916.640
+Setting to best freq of 916.600
