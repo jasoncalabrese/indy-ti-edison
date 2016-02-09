@@ -1,5 +1,62 @@
 [
   {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-08T23:49:35 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-08T23:49:35", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "23b1174810"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-08T23:49:35 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-08T23:49:35", 
+    "_body": "00", 
+    "_head": "3328", 
+    "rate": 1.0, 
+    "_date": "23b1174810"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-08T23:49:32 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-08T23:49:32", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "20b1174810"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-08T23:49:32 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-08T23:49:32", 
+    "_body": "00", 
+    "_head": "3328", 
+    "rate": 1.0, 
+    "_date": "20b1174810"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-08T23:49:31 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-08T23:49:31", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "1fb1174810"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-08T23:49:31 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-08T23:49:31", 
+    "_body": "00", 
+    "_head": "3328", 
+    "rate": 1.0, 
+    "_date": "1fb1174810"
+  }, 
+  {
     "_type": "BasalProfileStart", 
     "offset": 70200000, 
     "_description": "BasalProfileStart 2016-02-08T23:44:39 head[2], body[3] op[0x7b]", 
@@ -2551,24 +2608,5 @@
     "_head": "3300", 
     "rate": 0.0, 
     "_date": "20b5114810"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-02-08T17:48:46 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-02-08T17:48:46", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "2eb0114810"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-02-08T17:48:46 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-02-08T17:48:46", 
-    "_body": "00", 
-    "_head": "3300", 
-    "rate": 0.0, 
-    "_date": "2eb0114810"
   }
 ]
