@@ -1,15 +1,15 @@
 Opening /dev/ttyMFD1
 RileyLink OK
 Version: subg_rfspy 0.6
-04:42:59.105 -76 ( 46): GetModel: "723"
+04:44:10.685 -75 ( 73): GetModel: "723"
 916.500, 5, 5, rssi:-99.0
 916.520, 5, 5, rssi:-99.0
 916.540, 5, 5, rssi:-99.0
 916.560, 5, 5, rssi:-99.0
 916.580, 5, 5, rssi:-99.0
-916.600, 0, 0, rssi:-84.8
+916.600, 1, 2, rssi:-84.0
 916.620, 0, 0, rssi:-76.0
-916.640, 0, 0, rssi:-75.2
+916.640, 1, 1, rssi:-75.2
 916.660, 0, 0, rssi:-76.0
 916.680, 0, 5, rssi:-99.0
 916.700, 5, 5, rssi:-99.0
@@ -23,4 +23,4 @@ Version: subg_rfspy 0.6
 916.860, 5, 5, rssi:-99.0
 916.880, 5, 5, rssi:-99.0
 916.900, 5, 5, rssi:-99.0
-Setting to best freq of 916.640
+Setting to best freq of 916.660
