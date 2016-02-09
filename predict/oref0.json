@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":60,"tick":"+3","eventualBG":89,"snoozeBG":89,"mealAssist":"Off: Carbs: 55 Boluses: 2.8 Target: 115 Deviation: 29 BGI: -7.68","reason":"BG 60<80, delta 3>0; no high-temp to cancel"}
+{"temp":"absolute","bg":65,"tick":"+5","eventualBG":138,"snoozeBG":107,"mealAssist":"On: Carbs: 55 Boluses: 2.8 Target: 100 Deviation: 31 BGI: -6.52","reason":"BG 65<80, delta 5>0, cancel low temp","duration":0,"rate":0}
