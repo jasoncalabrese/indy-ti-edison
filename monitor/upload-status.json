@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-10T07:34:39.000Z", 
+      "timestamp": "2016-02-10T07:41:53.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -48,7 +48,7 @@
       "reason": "Eventual BG 140>=120, temp 1.05<1.325U/hr", 
       "rate": 1.3, 
       "eventualBG": 140, 
-      "recieved": false, 
+      "recieved": true, 
       "duration": 30, 
       "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: 10 BGI: -0.52", 
       "tick": "+3"
@@ -57,28 +57,33 @@
   "mmtune": {
     "scanDetails": [
       [
+        "916.580", 
+        4, 
+        -91
+      ], 
+      [
         "916.600", 
         5, 
         -78
       ], 
       [
         "916.620", 
-        3, 
-        -86
+        5, 
+        -78
       ], 
       [
         "916.640", 
         5, 
-        -77
+        -78
       ], 
       [
         "916.660", 
-        5, 
-        -86
+        1, 
+        -97
       ]
     ], 
     "setFreq": 916.64, 
-    "timestamp": "2016-02-10T07:34:32.000Z", 
+    "timestamp": "2016-02-10T07:41:46.000Z", 
     "usedDefault": false
   }
 }
