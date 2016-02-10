@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-10T14:44:40.000Z", 
+      "timestamp": "2016-02-10T14:49:43.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -18,20 +18,20 @@
     "suggested": {
       "bg": 130, 
       "temp": "absolute", 
-      "snoozeBG": 114, 
-      "timestamp": "2016-02-10T14:43:21.000Z", 
-      "reason": "Eventual BG 114>110 but Avg. Delta -1.67 < Exp. Delta -0.1; no temp to cancel", 
-      "eventualBG": 114, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -9 BGI: -0.16", 
-      "tick": -1
+      "snoozeBG": 118, 
+      "timestamp": "2016-02-10T14:48:21.000Z", 
+      "reason": "Eventual BG 118>110 but Avg. Delta -1.00 < Exp. Delta -0.3; no temp to cancel", 
+      "eventualBG": 118, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -5 BGI: -0.24", 
+      "tick": "+0"
     }, 
     "iob": {
-      "netbasalinsulin": -0.15, 
-      "timestamp": "2016-02-10T14:43:21.000Z", 
-      "basaliob": 0.085, 
-      "activity": 0.0004, 
+      "netbasalinsulin": -0.1, 
+      "timestamp": "2016-02-10T14:48:21.000Z", 
+      "basaliob": 0.082, 
+      "activity": 0.0006, 
       "bolussnooze": 0, 
-      "iob": 0.085
+      "iob": 0.082
     }, 
     "enacted": {
       "requested": {
@@ -53,45 +53,9 @@
     }
   }, 
   "mmtune": {
-    "scanDetails": [
-      [
-        "916.580", 
-        5, 
-        -91
-      ], 
-      [
-        "916.600", 
-        5, 
-        -89
-      ], 
-      [
-        "916.620", 
-        3, 
-        -93
-      ], 
-      [
-        "916.640", 
-        5, 
-        -88
-      ], 
-      [
-        "916.660", 
-        5, 
-        -88
-      ], 
-      [
-        "916.680", 
-        5, 
-        -89
-      ], 
-      [
-        "916.700", 
-        5, 
-        -92
-      ]
-    ], 
-    "setFreq": 916.66, 
-    "timestamp": "2016-02-10T14:44:32.000Z", 
-    "usedDefault": false
+    "scanDetails": [], 
+    "setFreq": 916.63, 
+    "timestamp": "2016-02-10T14:50:50.000Z", 
+    "usedDefault": true
   }
 }
