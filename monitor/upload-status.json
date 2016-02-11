@@ -7,33 +7,33 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-11T08:59:43.000Z", 
+      "timestamp": "2016-02-11T09:04:49.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 110.75, 
-    "clock": "2016-02-11T00:59:13-08:00"
+    "clock": "2016-02-11T01:04:00-08:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 121, 
+      "bg": 118, 
       "temp": "absolute", 
-      "snoozeBG": 98, 
-      "timestamp": "2016-02-11T08:58:06.000Z", 
+      "snoozeBG": 100, 
+      "timestamp": "2016-02-11T09:03:13.000Z", 
       "rate": 0, 
-      "reason": "Eventual BG 98<110, setting -0.45U/hr", 
-      "eventualBG": 98, 
+      "reason": "Eventual BG 100<110, setting -0.35U/hr", 
+      "eventualBG": 100, 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -16 BGI: -1.28", 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -12 BGI: -1.32", 
       "tick": -3
     }, 
     "iob": {
       "netbasalinsulin": 0.35, 
-      "timestamp": "2016-02-11T08:58:06.000Z", 
-      "basaliob": 0.091, 
-      "activity": 0.0032, 
+      "timestamp": "2016-02-11T09:03:12.000Z", 
+      "basaliob": 0.081, 
+      "activity": 0.0033, 
       "bolussnooze": 0, 
-      "iob": 0.091
+      "iob": 0.081
     }, 
     "enacted": {
       "requested": {
@@ -41,16 +41,16 @@
         "rate": 0, 
         "temp": "absolute"
       }, 
-      "bg": 121, 
+      "bg": 118, 
       "temp": "absolute", 
-      "snoozeBG": 98, 
-      "timestamp": "2016-02-11T08:58:17.000Z", 
-      "reason": "Eventual BG 98<110, setting -0.45U/hr", 
+      "snoozeBG": 100, 
+      "timestamp": "2016-02-11T09:03:37.000Z", 
+      "reason": "Eventual BG 100<110, setting -0.35U/hr", 
       "rate": 0, 
-      "eventualBG": 98, 
+      "eventualBG": 100, 
       "recieved": true, 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -16 BGI: -1.28", 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -12 BGI: -1.32", 
       "tick": -3
     }
   }, 
@@ -64,12 +64,12 @@
       [
         "916.580", 
         5, 
-        -80
+        -81
       ], 
       [
         "916.600", 
         5, 
-        -78
+        -79
       ], 
       [
         "916.620", 
@@ -84,26 +84,26 @@
       [
         "916.660", 
         5, 
-        -77
+        -78
       ], 
       [
         "916.680", 
         5, 
-        -78
+        -79
       ], 
       [
         "916.700", 
         5, 
-        -81
+        -82
       ], 
       [
         "916.720", 
         5, 
-        -90
+        -91
       ]
     ], 
     "setFreq": 916.66, 
-    "timestamp": "2016-02-11T08:59:22.000Z", 
+    "timestamp": "2016-02-11T09:04:22.000Z", 
     "usedDefault": false
   }
 }
