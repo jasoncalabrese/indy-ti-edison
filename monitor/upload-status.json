@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-11T15:45:44.000Z", 
+      "timestamp": "2016-02-11T15:50:07.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -16,22 +16,22 @@
   }, 
   "openaps": {
     "suggested": {
-      "bg": 108, 
+      "bg": 115, 
       "temp": "absolute", 
-      "snoozeBG": 69, 
-      "timestamp": "2016-02-11T15:44:44.000Z", 
-      "reason": "Eventual BG 15<110, but Delta +3 > Exp. Delta -4.3; no temp to cancel", 
-      "eventualBG": 15, 
-      "mealAssist": "Off: Carbs: 24 Boluses: 2.45 Target: 115 Deviation: 29 BGI: -7.08", 
-      "tick": "+3"
+      "snoozeBG": 78, 
+      "timestamp": "2016-02-11T15:48:49.000Z", 
+      "reason": "78 < 120; no temp to cancel", 
+      "eventualBG": 150, 
+      "mealAssist": "On: Carbs: 24 Boluses: 2.45 Target: 100 Deviation: 35 BGI: -7.36", 
+      "tick": "+7"
     }, 
     "iob": {
       "netbasalinsulin": -0.4, 
-      "timestamp": "2016-02-11T15:44:44.000Z", 
-      "basaliob": -0.237, 
-      "activity": 0.0177, 
-      "bolussnooze": 0.453, 
-      "iob": 1.523
+      "timestamp": "2016-02-11T15:48:48.000Z", 
+      "basaliob": -0.229, 
+      "activity": 0.0184, 
+      "bolussnooze": 0.391, 
+      "iob": 1.484
     }, 
     "enacted": {
       "requested": {
@@ -62,41 +62,41 @@
       [
         "916.580", 
         5, 
-        -78
+        -80
       ], 
       [
         "916.600", 
         5, 
-        -77
+        -83
       ], 
       [
         "916.620", 
         5, 
-        -74
+        -79
       ], 
       [
         "916.640", 
         5, 
-        -67
+        -77
       ], 
       [
         "916.660", 
         5, 
-        -67
+        -79
       ], 
       [
         "916.680", 
-        5, 
-        -68
+        3, 
+        -91
       ], 
       [
         "916.700", 
         5, 
-        -74
+        -89
       ]
     ], 
-    "setFreq": 916.66, 
-    "timestamp": "2016-02-11T15:45:23.000Z", 
+    "setFreq": 916.64, 
+    "timestamp": "2016-02-11T15:51:01.000Z", 
     "usedDefault": false
   }
 }
