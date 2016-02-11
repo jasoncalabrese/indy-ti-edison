@@ -11,7 +11,7 @@
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 99.15, 
+    "reservoir": 99.1, 
     "clock": "2016-02-11T13:44:18-08:00"
   }, 
   "openaps": {
