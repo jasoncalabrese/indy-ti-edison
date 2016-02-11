@@ -11,22 +11,10 @@
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 109.9, 
+    "reservoir": 109.825, 
     "clock": "2016-02-11T03:14:00-08:00"
   }, 
   "openaps": {
-    "suggested": {
-      "bg": 114, 
-      "temp": "absolute", 
-      "snoozeBG": 121, 
-      "timestamp": "2016-02-11T11:13:15.000Z", 
-      "rate": 0, 
-      "reason": "Eventual BG 121>110 but Delta +0 < Exp. Delta 1.4; cancel", 
-      "eventualBG": 121, 
-      "duration": 0, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: 1 BGI: 1.52", 
-      "tick": "+0"
-    }, 
     "iob": {
       "netbasalinsulin": -0.45, 
       "timestamp": "2016-02-11T11:13:14.000Z", 
