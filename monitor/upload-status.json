@@ -7,21 +7,21 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-11T03:29:29.000Z", 
+      "timestamp": "2016-02-11T03:34:52.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 116.2, 
-    "clock": "2016-02-10T19:28:59-08:00"
+    "reservoir": 116.125, 
+    "clock": "2016-02-10T19:34:22-08:00"
   }, 
   "openaps": {
     "iob": {
-      "netbasalinsulin": -0.35, 
-      "timestamp": "2016-02-11T03:28:49.000Z", 
-      "basaliob": -0.185, 
-      "activity": -0.0019, 
+      "netbasalinsulin": -0.75, 
+      "timestamp": "2016-02-11T03:33:41.000Z", 
+      "basaliob": -0.301, 
+      "activity": -0.0044, 
       "bolussnooze": 0, 
-      "iob": -0.185
+      "iob": -0.301
     }, 
     "enacted": {
       "requested": {
@@ -47,46 +47,46 @@
       [
         "916.560", 
         5, 
-        -69
+        -62
       ], 
       [
         "916.580", 
         5, 
-        -60
+        -54
       ], 
       [
         "916.600", 
         5, 
-        -61
+        -55
       ], 
       [
         "916.620", 
-        5, 
-        -60
+        2, 
+        -82
       ], 
       [
         "916.640", 
         5, 
-        -61
+        -55
       ], 
       [
         "916.660", 
         5, 
-        -64
+        -54
       ], 
       [
         "916.680", 
         5, 
-        -66
+        -53
       ], 
       [
         "916.700", 
         5, 
-        -71
+        -56
       ]
     ], 
-    "setFreq": 916.62, 
-    "timestamp": "2016-02-11T03:29:22.000Z", 
+    "setFreq": 916.68, 
+    "timestamp": "2016-02-11T03:34:32.000Z", 
     "usedDefault": false
   }
 }
