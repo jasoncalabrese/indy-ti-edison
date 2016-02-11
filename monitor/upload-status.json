@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-11T00:29:50.000Z", 
+      "timestamp": "2016-02-11T00:36:01.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -37,68 +37,73 @@
     }, 
     "enacted": {
       "requested": {
-        "duration": 0, 
+        "duration": 30, 
         "rate": 0, 
         "temp": "absolute"
       }, 
-      "bg": 135, 
+      "bg": 133, 
       "temp": "absolute", 
-      "snoozeBG": 111, 
-      "timestamp": "2016-02-11T00:28:24.000Z", 
-      "reason": "111 is in range. No temp required; cancel", 
+      "snoozeBG": 98, 
+      "timestamp": "2016-02-11T00:33:28.000Z", 
+      "reason": "Eventual BG 98<110, setting -0.35U/hr", 
       "rate": 0, 
-      "eventualBG": 111, 
+      "eventualBG": 98, 
       "recieved": true, 
-      "duration": 0, 
-      "mealAssist": "Off: Carbs: 6 Boluses: 0.1 Target: 115 Deviation: 5 BGI: 0.64", 
-      "tick": "+1"
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 6 Boluses: 0.1 Target: 115 Deviation: -1 BGI: 0.52", 
+      "tick": -2
     }
   }, 
   "mmtune": {
     "scanDetails": [
       [
+        "916.560", 
+        5, 
+        -93
+      ], 
+      [
         "916.580", 
         5, 
-        -90
+        -85
       ], 
       [
         "916.600", 
         5, 
-        -90
+        -83
       ], 
       [
         "916.620", 
         5, 
-        -91
+        -82
       ], 
       [
         "916.640", 
         5, 
-        -91
+        -82
       ], 
       [
         "916.660", 
         5, 
-        -88
+        -83
       ], 
       [
         "916.680", 
         5, 
-        -89
+        -83
       ], 
       [
         "916.700", 
         5, 
-        -90
+        -84
       ], 
       [
         "916.720", 
-        3, 
-        -98
+        5, 
+        -92
       ]
     ], 
-    "setFreq": 916.66, 
-    "timestamp": "2016-02-11T00:29:22.000Z", 
+    "setFreq": 916.64, 
+    "timestamp": "2016-02-11T00:35:53.000Z", 
     "usedDefault": false
   }
 }
