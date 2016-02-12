@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-12T02:24:30.000Z", 
+      "timestamp": "2016-02-12T02:35:56.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -53,30 +53,9 @@
     }
   }, 
   "mmtune": {
-    "scanDetails": [
-      [
-        "916.600", 
-        5, 
-        -96
-      ], 
-      [
-        "916.620", 
-        4, 
-        -96
-      ], 
-      [
-        "916.640", 
-        5, 
-        -95
-      ], 
-      [
-        "916.660", 
-        3, 
-        -97
-      ]
-    ], 
-    "setFreq": 916.64, 
-    "timestamp": "2016-02-12T02:32:23.000Z", 
-    "usedDefault": false
+    "scanDetails": [], 
+    "setFreq": 916.63, 
+    "timestamp": "2016-02-12T02:35:34.000Z", 
+    "usedDefault": true
   }
 }
