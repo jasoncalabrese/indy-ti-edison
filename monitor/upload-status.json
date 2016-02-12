@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-12T14:44:30.000Z", 
+      "timestamp": "2016-02-12T14:56:55.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -57,7 +57,7 @@
   "mmtune": {
     "scanDetails": [], 
     "setFreq": 916.63, 
-    "timestamp": "2016-02-12T14:53:27.000Z", 
+    "timestamp": "2016-02-12T14:56:33.000Z", 
     "usedDefault": true
   }
 }
