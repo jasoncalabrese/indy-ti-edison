@@ -2,6 +2,7 @@ pump.ini
 secret.ini
 ns-upload.ini
 ns-bgnow.ini
+ns-cal.ini
 latest-treatments.ini
 mmtune.ini
 *.iml
