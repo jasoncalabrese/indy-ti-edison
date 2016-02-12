@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "_type": "BGReceived",
+    "_description": "BGReceived 2016-02-11T20:44:21 head[2], body[3] op[0x3f]",
+    "timestamp": "2016-02-11T20:44:21-08:00",
+    "_body": "c23647",
+    "_head": "3f14",
+    "amount": 165,
+    "link": "c23647",
+    "_date": "15acb46b10",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/BGReceived",
+    "created_at": "2016-02-11T20:44:21-08:00",
+    "enteredBy": "openaps://medtronic/723",
+    "eventType": "Note",
+    "notes": "BGReceived 723 "
+  },
+  {
+    "_type": "CalBGForPH",
+    "_description": "CalBGForPH 2016-02-11T20:44:21 head[2], body[0] op[0x0a]",
+    "timestamp": "2016-02-11T20:44:21-08:00",
+    "_body": "",
+    "_head": "0aa5",
+    "amount": 165,
+    "_date": "15ac346b10",
+    "eventType": "<none>",
+    "glucose": 165,
+    "glucoseType": "Finger",
+    "notes": "Pump received finger stick.",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/CalBGForPH",
+    "created_at": "2016-02-11T20:44:21-08:00",
+    "enteredBy": "openaps://medtronic/723"
+  },
+  {
+    "duration": "0",
+    "bolus": {
+      "programmed": 0.6,
+      "_type": "Bolus",
+      "_description": "Bolus 2016-02-11T20:42:27 head[8], body[0] op[0x01]",
+      "timestamp": "2016-02-11T20:42:27-08:00",
+      "_body": "",
+      "_head": "0100180018004800",
+      "amount": 0.6,
+      "unabsorbed": 1.8,
+      "duration": 0,
+      "type": "normal",
+      "_date": "1baa346b10"
+    },
+    "timestamp": "2016-02-11T20:42:27-08:00",
+    "created_at": "2016-02-11T20:42:27-08:00",
+    "eventType": "Correction Bolus",
+    "insulin": "0.6",
+    "notes": "Normal bolus (solo, no bolus wizard).\nProgrammed bolus 0.6\nDelivered bolus 0.6\nPercent delivered:  100%",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Correction Bolus",
+    "enteredBy": "openaps://medtronic/723"
+  }
+]
