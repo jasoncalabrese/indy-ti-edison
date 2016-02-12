@@ -1,5 +1,23 @@
 [
   {
+    "_type": "Sara6E", 
+    "_description": "Sara6E 2016-02-12T00:00:00 head[1], body[49] op[0x6e]", 
+    "timestamp": "2016-02-12T00:00:00", 
+    "_body": "05008c61ad070000039e01ee3501b02f00a700cc000000c000240300020200000000000000000091910000000000000000", 
+    "valid_date": "2016-02-11", 
+    "_head": "6e", 
+    "_date": "2b10"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-02-12T00:00:00 head[5], body[3] op[0x07]", 
+    "timestamp": "2016-02-12T00:00:00", 
+    "_body": "000000", 
+    "valid_date": "2016-02-11", 
+    "_head": "070000039e", 
+    "_date": "2b10"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-02-11T23:58:19 head[2], body[0] op[0x16]", 
