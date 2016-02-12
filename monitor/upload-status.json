@@ -3,16 +3,16 @@
   "pump": {
     "battery": {
       "status": "normal", 
-      "voltage": 1.43
+      "voltage": 1.44
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-12T06:59:48.000Z", 
+      "timestamp": "2016-02-12T07:04:30.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 88.125, 
-    "clock": "2016-02-11T22:59:18-08:00"
+    "clock": "2016-02-11T23:04:00-08:00"
   }, 
   "openaps": {
     "suggested": {
@@ -41,69 +41,64 @@
         "rate": 0, 
         "temp": "absolute"
       }, 
-      "bg": 191, 
+      "bg": 185, 
       "temp": "absolute", 
-      "snoozeBG": 101, 
-      "timestamp": "2016-02-12T06:53:45.000Z", 
-      "reason": "Eventual BG 79<110, setting 0U/hr", 
+      "snoozeBG": 92, 
+      "timestamp": "2016-02-12T07:03:25.000Z", 
+      "reason": "Eventual BG 77<110, setting -0.45U/hr", 
       "rate": 0, 
-      "eventualBG": 79, 
+      "eventualBG": 77, 
       "recieved": true, 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0.9 Target: 115 Deviation: -18 BGI: -1.96", 
-      "tick": -14
+      "mealAssist": "Off: Carbs: 0 Boluses: 0.9 Target: 115 Deviation: -23 BGI: -2.76", 
+      "tick": -3
     }
   }, 
   "mmtune": {
     "scanDetails": [
       [
-        "916.560", 
-        1, 
-        -96
-      ], 
-      [
         "916.580", 
         5, 
-        -67
+        -72
       ], 
       [
         "916.600", 
         5, 
-        -62
+        -67
       ], 
       [
         "916.620", 
-        3, 
-        -77
+        5, 
+        -66
       ], 
       [
         "916.640", 
         5, 
-        -62
+        -66
       ], 
       [
         "916.660", 
         5, 
-        -61
+        -66
       ], 
       [
         "916.680", 
         5, 
-        -62
+        -67
       ], 
       [
         "916.700", 
         5, 
-        -64
+        -70
       ], 
       [
         "916.720", 
         5, 
-        -75
+        -78
       ]
     ], 
     "setFreq": 916.66, 
-    "timestamp": "2016-02-12T06:59:31.000Z", 
+    "timestamp": "2016-02-12T07:04:22.000Z", 
     "usedDefault": false
   }
 }
