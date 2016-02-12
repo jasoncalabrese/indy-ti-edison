@@ -4,15 +4,15 @@
     "rate": 0, 
     "temp": "absolute"
   }, 
-  "bg": 124, 
+  "bg": 118, 
   "temp": "absolute", 
-  "snoozeBG": 87, 
-  "timestamp": "2016-02-12T10:34:01.470416", 
+  "snoozeBG": 55, 
+  "timestamp": "2016-02-12T10:38:24.585564", 
   "rate": 0.0, 
-  "reason": "Eventual BG -56<110, setting -0.85U/hr", 
-  "eventualBG": -56, 
+  "reason": "Eventual BG -65<110, setting -2.45U/hr", 
+  "eventualBG": -65, 
   "recieved": false, 
   "duration": 30, 
-  "mealAssist": "Off: Carbs: 18 Boluses: 1.5 Target: 115 Deviation: -40 BGI: -2.32", 
-  "tick": -15
+  "mealAssist": "Off: Carbs: 18 Boluses: 1.5 Target: 115 Deviation: -51 BGI: -3.2", 
+  "tick": -6
 }
