@@ -3,16 +3,16 @@
   "pump": {
     "battery": {
       "status": "normal", 
-      "voltage": 1.4
+      "voltage": 1.39
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-13T05:59:50.000Z", 
+      "timestamp": "2016-02-13T06:04:50.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 108.55, 
-    "clock": "2016-02-12T21:59:01-08:00"
+    "clock": "2016-02-12T22:04:01-08:00"
   }, 
   "openaps": {
     "suggested": {
@@ -34,58 +34,76 @@
       "activity": 0.0329, 
       "bolussnooze": 0.228, 
       "iob": 1.202
+    }, 
+    "enacted": {
+      "requested": {
+        "duration": 30, 
+        "rate": 0, 
+        "temp": "absolute"
+      }, 
+      "bg": 114, 
+      "temp": "absolute", 
+      "snoozeBG": 58, 
+      "timestamp": "2016-02-13T06:03:23.000Z", 
+      "reason": "Eventual BG 31<110, Snooze BG 58, setting -1.58U/hr", 
+      "rate": 0, 
+      "eventualBG": 31, 
+      "recieved": true, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 55 Boluses: 3.65 Target: 115 Deviation: 13 BGI: -13.16", 
+      "tick": -2
     }
   }, 
   "mmtune": {
     "scanDetails": [
       [
         "916.540", 
-        5, 
-        -92
+        2, 
+        -94
       ], 
       [
         "916.560", 
         5, 
-        -83
+        -76
       ], 
       [
         "916.580", 
         5, 
-        -80
+        -73
       ], 
       [
         "916.600", 
         5, 
-        -79
+        -72
       ], 
       [
         "916.620", 
         5, 
-        -79
+        -71
       ], 
       [
         "916.640", 
         5, 
-        -80
+        -71
       ], 
       [
         "916.660", 
         5, 
-        -80
+        -73
       ], 
       [
         "916.680", 
         5, 
-        -81
+        -75
       ], 
       [
         "916.700", 
         5, 
-        -91
+        -82
       ]
     ], 
-    "setFreq": 916.62, 
-    "timestamp": "2016-02-13T05:59:23.000Z", 
+    "setFreq": 916.64, 
+    "timestamp": "2016-02-13T06:04:22.000Z", 
     "usedDefault": false
   }
 }
