@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-14T18:13:58.000Z", 
+      "timestamp": "2016-02-14T18:17:58.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -34,6 +34,24 @@
       "activity": 0.0215, 
       "bolussnooze": 0.006, 
       "iob": 0.94
+    }, 
+    "enacted": {
+      "requested": {
+        "duration": 30, 
+        "rate": 0, 
+        "temp": "absolute"
+      }, 
+      "bg": 111, 
+      "temp": "absolute", 
+      "snoozeBG": 63, 
+      "timestamp": "2016-02-14T18:15:19.000Z", 
+      "reason": "Eventual BG 62<110, setting -2.05U/hr", 
+      "rate": 0, 
+      "eventualBG": 62, 
+      "recieved": true, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 24 Boluses: 2.45 Target: 115 Deviation: 26 BGI: -8.6", 
+      "tick": "+0"
     }
   }, 
   "mmtune": {
@@ -41,22 +59,22 @@
       [
         "916.560", 
         5, 
-        -91
+        -81
       ], 
       [
         "916.580", 
         5, 
-        -84
+        -79
       ], 
       [
         "916.600", 
         5, 
-        -75
+        -76
       ], 
       [
         "916.620", 
         5, 
-        -75
+        -76
       ], 
       [
         "916.640", 
@@ -66,12 +84,12 @@
       [
         "916.660", 
         5, 
-        -77
+        -78
       ], 
       [
         "916.680", 
         5, 
-        -77
+        -79
       ], 
       [
         "916.700", 
@@ -79,8 +97,8 @@
         -85
       ]
     ], 
-    "setFreq": 916.62, 
-    "timestamp": "2016-02-14T18:13:51.000Z", 
+    "setFreq": 916.64, 
+    "timestamp": "2016-02-14T18:17:50.000Z", 
     "usedDefault": false
   }
 }
