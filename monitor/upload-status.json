@@ -7,31 +7,31 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-14T09:24:48.000Z", 
+      "timestamp": "2016-02-14T09:29:48.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 90.3, 
-    "clock": "2016-02-14T01:24:19-08:00"
+    "clock": "2016-02-14T01:29:19-08:00"
   }, 
   "openaps": {
     "suggested": {
       "bg": 90, 
       "temp": "absolute", 
-      "snoozeBG": 118, 
-      "timestamp": "2016-02-14T09:23:40.000Z", 
-      "reason": "Eventual BG 118>110 but Avg. Delta 1.00 < Exp. Delta 1.3; no temp to cancel", 
-      "eventualBG": 118, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -2 BGI: 1.36", 
-      "tick": "+3"
+      "snoozeBG": 120, 
+      "timestamp": "2016-02-14T09:28:16.000Z", 
+      "reason": "Eventual BG 120>110 but Delta +0 < Exp. Delta 1.3; no temp to cancel", 
+      "eventualBG": 120, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: 1 BGI: 1.48", 
+      "tick": "+0"
     }, 
     "iob": {
       "netbasalinsulin": -0.35, 
-      "timestamp": "2016-02-14T09:23:40.000Z", 
-      "basaliob": -0.379, 
-      "activity": -0.0034, 
+      "timestamp": "2016-02-14T09:28:16.000Z", 
+      "basaliob": -0.364, 
+      "activity": -0.0037, 
       "bolussnooze": 0, 
-      "iob": -0.379
+      "iob": -0.364
     }, 
     "enacted": {
       "requested": {
@@ -56,8 +56,8 @@
     "scanDetails": [
       [
         "916.540", 
-        2, 
-        -95
+        5, 
+        -87
       ], 
       [
         "916.560", 
@@ -71,8 +71,8 @@
       ], 
       [
         "916.600", 
-        2, 
-        -88
+        3, 
+        -83
       ], 
       [
         "916.620", 
@@ -82,12 +82,12 @@
       [
         "916.640", 
         5, 
-        -71
+        -72
       ], 
       [
         "916.660", 
         5, 
-        -72
+        -73
       ], 
       [
         "916.680", 
@@ -101,7 +101,7 @@
       ]
     ], 
     "setFreq": 916.64, 
-    "timestamp": "2016-02-14T09:24:31.000Z", 
+    "timestamp": "2016-02-14T09:29:32.000Z", 
     "usedDefault": false
   }
 }
