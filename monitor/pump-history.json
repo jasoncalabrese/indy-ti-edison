@@ -1,5 +1,75 @@
 [
   {
+    "programmed": 0.6, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-02-14T18:09:51 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-02-14T18:09:51", 
+    "_body": "", 
+    "_head": "0100180018004600", 
+    "amount": 0.6, 
+    "unabsorbed": 1.75, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "3389326e10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-14T18:09:40 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-14T18:09:40", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "2889124e10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-14T18:09:40 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-14T18:09:40", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "2889124e10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-14T18:09:37 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-14T18:09:37", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "2589124e10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-14T18:09:37 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-14T18:09:37", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "2589124e10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-14T18:09:36 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-14T18:09:36", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "2489124e10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-14T18:09:36 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-14T18:09:36", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "2489124e10"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-02-14T18:07:12 head[2], body[0] op[0x16]", 
