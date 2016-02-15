@@ -1,17 +1,23 @@
 {
-  "_id": "56c14f9907f60885b3447837",
-  "_type": "Prime",
-  "_description": "Prime 2016-02-14T20:07:20 head[5], body[0] op[0x03]",
-  "timestamp": "2016-02-14T20:07:20-08:00",
-  "_body": "",
-  "_head": "0300000070",
-  "amount": 11.2,
-  "fixed": 0,
-  "type": "manual",
-  "_date": "1487340e10",
-  "medtronic": "mm://openaps/mm-format-ns-treatments/Prime",
-  "created_at": "2016-02-14T20:07:20-08:00",
-  "enteredBy": "openaps://medtronic/723",
-  "eventType": "Note",
-  "notes": "Prime 723 "
+  "_id": "56c1535607f60885b344783c",
+  "bolus": {
+    "programmed": 0.6,
+    "_type": "Bolus",
+    "_description": "Bolus 2016-02-14T20:13:12 head[8], body[0] op[0x01]",
+    "timestamp": "2016-02-14T20:13:12-08:00",
+    "_body": "",
+    "_head": "0100180018002000",
+    "amount": 0.6,
+    "unabsorbed": 0.8,
+    "duration": 0,
+    "type": "normal",
+    "_date": "0c8d346e10"
+  },
+  "timestamp": "2016-02-14T20:13:12-08:00",
+  "created_at": "2016-02-14T20:13:12-08:00",
+  "eventType": "Correction Bolus",
+  "insulin": 0.6,
+  "notes": "Normal bolus (solo, no bolus wizard).\nProgrammed bolus 0.6\nDelivered bolus 0.6\nPercent delivered:  100%",
+  "medtronic": "mm://openaps/mm-format-ns-treatments/Correction Bolus",
+  "enteredBy": "openaps://medtronic/723"
 }
