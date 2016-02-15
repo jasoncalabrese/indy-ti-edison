@@ -7,33 +7,31 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-15T03:26:14.000Z", 
+      "timestamp": "2016-02-15T03:31:06.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 73, 
-    "clock": "2016-02-14T19:11:33-08:00"
+    "reservoir": 72.85, 
+    "clock": "2016-02-14T19:30:36-08:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 171, 
+      "bg": 166, 
       "temp": "absolute", 
-      "snoozeBG": 138, 
-      "timestamp": "2016-02-15T03:13:00.000Z", 
-      "rate": 0, 
-      "reason": "Eventual BG 4<110, but Avg. Delta 2.00 > Exp. Delta -7; cancel", 
-      "eventualBG": 4, 
-      "duration": 0, 
-      "mealAssist": "Off: Carbs: 100 Boluses: 4.4 Target: 115 Deviation: 36 BGI: -10.08", 
-      "tick": "+1"
+      "snoozeBG": 115, 
+      "timestamp": "2016-02-15T03:32:06.000Z", 
+      "reason": "Eventual BG 41<110, bolus snooze: eventual BG range 41-115", 
+      "eventualBG": 41, 
+      "mealAssist": "Off: Carbs: 100 Boluses: 4.4 Target: 115 Deviation: 23 BGI: -9.4", 
+      "tick": -6
     }, 
     "iob": {
-      "netbasalinsulin": 1.15, 
-      "timestamp": "2016-02-15T03:12:59.000Z", 
-      "basaliob": 0.487, 
-      "activity": 0.0252, 
-      "bolussnooze": 1.115, 
-      "iob": 2.54
+      "netbasalinsulin": 0.45, 
+      "timestamp": "2016-02-15T03:32:05.000Z", 
+      "basaliob": 0.28, 
+      "activity": 0.0235, 
+      "bolussnooze": 0.618, 
+      "iob": 1.856
     }, 
     "enacted": {
       "requested": {
@@ -55,35 +53,9 @@
     }
   }, 
   "mmtune": {
-    "scanDetails": [
-      [
-        "916.560", 
-        3, 
-        -86
-      ], 
-      [
-        "916.580", 
-        5, 
-        -64
-      ], 
-      [
-        "916.600", 
-        5, 
-        -61
-      ], 
-      [
-        "916.620", 
-        5, 
-        -60
-      ], 
-      [
-        "916.640", 
-        4, 
-        -68
-      ]
-    ], 
-    "setFreq": 916.62, 
-    "timestamp": "2016-02-15T03:30:01.000Z", 
-    "usedDefault": false
+    "scanDetails": [], 
+    "setFreq": 916.63, 
+    "timestamp": "2016-02-15T03:30:56.000Z", 
+    "usedDefault": true
   }
 }
